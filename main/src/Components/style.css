@@ -1,0 +1,14 @@
+.title{
+    text-align: center;
+    bottom: 60%;
+    top: auto;
+}
+
+.desc{
+    text-align: center;
+}
+
+.underline{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
