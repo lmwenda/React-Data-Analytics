@@ -12,3 +12,10 @@
     text-decoration: underline;
     text-transform: uppercase;
 }
+
+.addData{
+    border: 1px solid #000000;
+    padding: 5 20px;
+    float: center;
+    display: block;
+}

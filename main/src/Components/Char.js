@@ -48,6 +48,10 @@ class Char extends React.Component{
     render(){
         return(
             <div className="data_render">
+                {/* Meta Tags */}
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+                {/* Bar Chart */}
                 <Bar
                 data={this.state.chartData}
                 width={100}
